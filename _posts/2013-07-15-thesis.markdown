@@ -1,0 +1,118 @@
+---
+title: "Automatically Generating Complex Test Cases from Simple Ones"
+categories: research
+gallery:
+  - image_path:  approach.001.gif
+    url:  approach.001.gif
+  - image_path:  approach.003.gif
+    url:  approach.003.gif
+  - image_path:  approach.005.gif
+    url:  approach.005.gif
+  - image_path:  approach.006.gif
+    url:  approach.006.gif
+  - image_path:  approach.007.gif
+    url:  approach.007.gif
+  - image_path:  approach.008.gif
+    url:  approach.008.gif
+  - image_path:  approach.009.gif
+    url:  approach.009.gif
+  - image_path:  approach.010.gif
+    url:  approach.010.gif
+  - image_path:  approach.011.gif 
+    url:  approach.011.gif 
+header:
+  teaser: approach.011.gif
+---
+
+{% include base_path %}
+
+![PhD defense]({{ base_path }}/images/defense.png){: .align-center} 
+
+My PhD work has focused on the problem of generating complex test cases
+automatically by exploiting information available in existing unit test
+cases. In the work, I explored several directions in the area of
+*Software Testing* and *Analysis*: analysis of software artifacts,
+program analysis, and automatic test case generation.
+
+During my PhD I proposed, implemented and validated an approach FUSION
+for automatic generation of complex (integration) test cases by
+combining information extracted from simple (unit) ones.
+
+## Why is it important?
+
+### Test cases of different kind and granularity are important to test software systems thoroughly
+
+Software projects produce many test cases of different kind and
+granularity to thoroughly check the system functionality, aiming to
+prevent, detect, and remove different types of faults. Simple test cases
+exercise small parts of the system aiming to detect faults in single
+modules. More complex integration and system test cases exercise larger
+parts of the system aiming to detect problems in module interactions and
+verify the functionality of the system as a whole.
+
+### Generating complex test cases is expensive and difficult
+
+Test cases embody up to the half the overall software development cost
+and effort and the test case complexity comes at a cost -- developing
+complex test cases is a laborious and expensive task that is hard to
+automate.
+
+### Modern applications are provided with many unit test cases that contain useful information
+
+Test cases capture and represent the domain knowledge of software
+developer, her assumptions on the implicit and explicit interaction
+protocols in the system, and the expected behavior of different modules
+of the system in normal and exceptional conditions. Moreover, test cases
+capture information about the environment and the data the system
+operates on. As such, together with the system source code, test cases
+integrate important system and domain knowledge.
+
+## Solution
+
+The core idea behind the approach comes from the study of many unit and
+integration test cases that revealed structural interrelations between
+them: Test cases contain information about object interactions that,
+when used appropriately, can reduce the effort to generate new test
+cases.
+
+{% include gallery  %}
+
+The approach defined in the PhD thesis leverages classic analysis
+techniques and generates effective integration test cases.
+
+### Dissertation committee 
+
+Research advisor: Prof. [Mauro Pezzè](http://www.inf.usi.ch/faculty/pezze/), University of
+Lugano, Switzerland
+
+Prof. [Mark Harman](http://www.cs.ucl.ac.uk/staff/mharman/), University
+College London, United Kingdom
+
+Prof. [Gregg Rothermel](http://cse.unl.edu/~grother/), University of
+Nebraska-Lincoln, USA
+
+Prof. [Mehdi Jazayeri](http://www.inf.usi.ch/faculty/jazayeri/),
+University of Lugano, Switzerland
+
+Prof. [Matthias Hauswirth](http://www.inf.usi.ch/faculty/hauswirth/),
+University of Lugano, Switzerland
+
+
+### Selected publications
+
+* M. Pezzè, K. Rubinov, and J. Wuttke. [Generating Effective Integration Test Cases from Unit Ones](http://dx.doi.org/10.1109/ICST.2013.37). In Proc. of 6th IEEE Int. Conf. on Software Testing, Verification and Validation (ICST), 11-20, 2013.
+* K. Rubinov and J. Wuttke. [Augmenting Test Suites Automatically (Poster)](http://dx.doi.org/10.1109/ICSE.2012.6227078). In Proc. of 34th Int. Conf. on Software Engineering (ICSE), 2012.
+* K. Rubinov. [Generating Integration Test Cases Automatically](http://doi.acm.org/10.1145/1882291.1882346). In Proc. 18th ACM SIGSOFT Int. Symp. on Foundations of Software Engineering (FSE), 357--360, 2010.
+
+
+
+
+
+### Examples of integration faults
+
+The following [github
+repository](http://rubinovk.github.io/integration-faults/) stores some
+examples of real-life integration faults. Feel free to
+[contribute](https://github.com/rubinovk/integration-faults/wiki/Share)
+with new examples.
+

@@ -1,16 +1,7 @@
 ---
- title: "Look for yourself"
-# published: true
+title: "Look for yourself"
 excerpt_separator: "<!--more-->" 
-# path: ""
-type: posts
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true 
-excerpt: "Taking care of yourself is difficult, especially in the present."
+categories: future
 ---
 
 Taking care of yourself is difficult, especially in the present. If you feel
