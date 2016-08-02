@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Future zooming"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Konstantin Rubinov"
+description              : "re-searching the future"
 url                      : https://rubinovk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /mmistakes # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -20,14 +20,14 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : rubinovk # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -61,9 +61,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Konstantin Rubinov"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "re-searcher"
   location         : "Somewhere"
   email            :
   uri              :
