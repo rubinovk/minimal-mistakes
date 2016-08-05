@@ -24,11 +24,6 @@ program binaries and __mobile applications__, and to develop systems with __high
 quality and security guarantees__.
 {: .text-justify}
 
-> "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
-
-<cite>Madame Marie Curie</cite> (1867-1934) 
-{: .small}
-
 </section>
 
 
@@ -40,7 +35,7 @@ quality and security guarantees__.
 <div class="grid__wrapper">
 
 {% for category in group_names %}
-  <!-- all except research -->
+  <!-- only research -->
   {% if category contains site.research %}
     {% assign posts = group_items[forloop.index0] %}
     {% for post in posts %}
@@ -52,7 +47,7 @@ quality and security guarantees__.
 </div>
 </div>
 
-<section class="page__content" itemprop="text" markdown="1">
+<section class="page__content cf" itemprop="text" markdown="1">
 
 > "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
 

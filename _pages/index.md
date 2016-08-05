@@ -20,7 +20,7 @@ To learn more about me click on my pic
 
 ## About this site
 
-Here you will find a collection of my [research work]({{ base_path }}/research/), [opinions]({{ base_path }}/opinions/), and observations
+Here you will find a collection of my [research]({{ base_path }}/research/) work, [opinions]({{ base_path }}/opinions/), and observations
 
 
 

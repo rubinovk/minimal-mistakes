@@ -23,12 +23,15 @@ Hi there, this is Konstantin
 
 ## My superpower
 
-> Ability to form a mental image of things intangible.
-> In my mind I can visualize and manipulate almost anything tangible and intangible, including music, algorithms, movement of a planet, and, of course, just plain odd situations.
+> Ability to form a mental image of things intangible;
+> in my mind I can visualize and manipulate almost anything tangible and intangible, including music, algorithms, movement of a planet, and, of course, just plain odd situations.
 
 ### What is your superpower?
 
 email me at [futurezooming@gmail.com](mailto:futurezooming@gmail.com)
+
+
+[Don't click](https://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors){: .btn .btn--light-outline}
 
 
 
