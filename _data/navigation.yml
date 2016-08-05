@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Now"
+  - title: "research"
+    url: /research/
+
+  - title: "opinions"
+    url: /opinions/
+    children:
+        - title: "library"
+          url: /library/
+
+  - title: "now"
     url: /now/
 
-  - title: "About"
-    url: /about/
 
-  - title: "Posts"
-    url: /year-archive/
-
-  - title: "Categories"
-    url: /categories/
-
-  - title: "Tags"
-    url: /tags/
-
-  - title: "Pages"
-    url: /page-archive/
-
-  - title: "Collections"
-    url: /collection-archive/
+opinions:
+   - title: "tech"
+     url: /tech/
+   - title: "future"
+     url: /future/
+   - title: "library"
+     url: /library/

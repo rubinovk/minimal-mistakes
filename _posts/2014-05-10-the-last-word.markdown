@@ -1,6 +1,7 @@
 ---
 title: "The last Word"
 categories: opinions
+excerpt: "We seemed to have been stuck with _Word_ forever. Except for things do not stay in one place."
 excerpt_separator: "<!--more-->" 
 ---
 
@@ -12,24 +13,27 @@ yes! Was it difficult? - I cannot know.  Was it needed? - Yes!
 <!-- more -->
 
 From:
-{% highlight html %}
+
+```html
 <div class="entry-content"><p>John Gruber with the help of Aaron Shwarz
 relieved the pain of writing awkward html to writing straightforward
 <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. 
 Yes, yes, yes and yes! Was it difficult? &ndash; I cannot know. 
 Was it needed? &ndash; Yes!</p>
-{% endhighlight %}
+```
+
 we've got:
-{% highlight markdown %}
+
+```markdown
 John Gruber with the help of Aaron Shwarz relieved the pain of writing awkward
 html to writing straightforward
 [Markdown](http://daringfireball.net/projects/markdown/).  Yes, yes, yes and
 yes! Was it difficult? - I cannot know.  Was it needed? - Yes! 
-{% endhighlight %}
+```
 
 In the following I will argue that before long _Markdown_ will kill _Word_.  I
-am talking about you, _MS Word_. Believe me: _Markdown_ with all its
-seemingly superficial simplicity has the power to throw such an unforgivable
+am talking about _MS Word_. _Markdown_ with all its
+seemingly superficial simplicity has the power to throw such an
 blow.
 
 ## Prelude
@@ -58,7 +62,7 @@ powerful text editors like _Vim_ or _Emacs_ are around for decades.  Whereas
 _LaTeX_ -- a typesetting system for formatting sophisticated articles -- is
 extensively used in scientific community since 1980s.[^3]
 
-[^3]: Forgot to mention -- these beasts are free. [Here's one example of what _LaTeX_ can produce](http://tug.ctan.org/tex-archive/macros/latex/contrib/elsarticle/doc/els2.pdf)
+[^3]: Forgot to mention -- these are free. [Here's one example of what _LaTeX_ can produce](http://tug.ctan.org/tex-archive/macros/latex/contrib/elsarticle/doc/els2.pdf)
 
 ## The effort
 

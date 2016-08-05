@@ -14,7 +14,7 @@ description              : "re-searching the future"
 url                      : https://rubinovk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/mmistakes" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -39,7 +39,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "futurezoom"
 facebook:
   username               :
   app_id                 :
@@ -54,26 +54,27 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-50253410-1"
 
 
 # Site Author
 author:
   name             : "Konstantin Rubinov"
   avatar           : "bio-photo.jpg"
-  bio              : "re-searcher"
-  location         : "Somewhere"
+  bio              : "software engineering researcher, software testing connoisseur, Ex-Motorolan, and an occasional surfer"
+  location         : 
   email            :
-  uri              :
+  uri              : 
+  about            : "/k/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : rubinovk
   google_plus      :
   keybase          :
   instagram        :
@@ -84,7 +85,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -197,7 +198,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
@@ -222,3 +222,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Personal
+research: "research"

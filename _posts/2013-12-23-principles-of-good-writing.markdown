@@ -1,6 +1,7 @@
 ---
 title: "Illustrated principles of good writing"
 categories: writing
+excerpt: "principles of clear and coherent writing, visualized"
 ---
 
 {% include base_path %}
