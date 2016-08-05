@@ -7,11 +7,20 @@ header:
 
 {% include base_path %}
 
-Hey, __Konstantin__ is here! To learn more about me click on my pic
+Hi there, this is __Konstantin__
 
-### About this site
+## People say about me
 
-Here you will find a collection of my research endeavours, opinions, and observations
+* lorem
+* ipsum 
+* veritas
+
+To learn more about me click on my pic
+{: .small}
+
+## About this site
+
+Here you will find a collection of my [research work]({{ base_path }}/research/), [opinions]({{ base_path }}/opinions/), and observations
 
 
 
