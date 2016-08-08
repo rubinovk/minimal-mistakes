@@ -11,7 +11,7 @@ Hi there, this is Konstantin
 
  - thinking hard and developing ideas (disguised as software engineering research and PhD)
  - breaking software (being a software testing professional with an industrial experience)
- - SSS (Surfing, Snowboarding, Slacklining)
+ - surfing, snowboarding, slacklining
 
 ## I believe that
 
