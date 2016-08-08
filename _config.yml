@@ -4,6 +4,14 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+#
+#  Commands: 
+#  Development:
+#  bundle exec jekyll serve --config _config.yml,_config.dev.yml
+#  bundle exec jekyll build --config _config.yml,_config.dev.yml 
+#  bundle exec jekyll clean --config _config.yml,_config.dev.yml
+#  Release:
+#  bundle exec jekyll build --config _config.yml
 
 # Site Settings
 locale                   : "en"
@@ -154,20 +162,20 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-# gems:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 # mimic GitHub Pages with --safe
-# whitelist:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 
 # Archives
