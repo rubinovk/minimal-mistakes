@@ -11,7 +11,7 @@
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
      {% if author.about %}
-        <a href="{{ base_path }}{{ author.about }}" style="text-decoration: none">
+        <a href="{{ base_path }}/{{ author.about }}/" style="text-decoration: none">
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
         </a>
         {% else %} 
@@ -36,7 +36,7 @@
       {% endif %}
  <!--
      {% if author.about %}
-      <li><a href="{{ base_path }}{{ author.about }}">about me</a></li>
+      <li><a href="{{ base_path }}/{{ author.about }}/">about me</a></li>
       {% endif %}
  -->
       {% if author.email %}

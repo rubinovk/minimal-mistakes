@@ -34,4 +34,23 @@ email me at [futurezooming@gmail.com](mailto:futurezooming@gmail.com)
 [Don't click](https://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors){: .btn .btn--light-outline}
 
 
+<!-- ## Timeline -->
 
+
+<!-- <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>  Summer 2015: -->
+<!--  -->
+<!-- After almost two years working at NUS, I have accepted a position at the -->
+<!-- Politecnico di Milano to work with Professor [Luciano Baresi](http://home.deib.polimi.it/baresi/) -->
+<!--  -->
+<!-- I am deeply grateful to all the people that made my time as a postdoctoral -->
+<!-- researcher at the National University of Singapore (NUS) enjoyable and -->
+<!-- rewarding.  In particular, I thank members of the research group of Professor -->
+<!-- [Abhik Roychoudhury](http://www.comp.nus.edu.sg/~abhik/)  for the support I -->
+<!-- received while working at NUS -->
+
+<!-- Since October 2013 till May 2015 I was a Postdoctoral Research Fellow in the -->
+<!-- School of Computing at the National University of Singapore working with -->
+<!-- Professor [Abhik Roychoudhury](http://www.comp.nus.edu.sg/~abhik/) -->
+
+<!-- I hold a PhD degree from [University of Lugano, Switzerland](http://www.inf.usi.ch) where he was advised by -->
+<!-- Professor [Mauro&nbsp;Pezz&egrave;](http://www.inf.usi.ch/faculty/pezze/) -->
