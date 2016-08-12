@@ -1,11 +1,15 @@
 ---
 title: ""
-permalink: /k/
+permalink: /k/ 
+author_profile: false
 ---
 
 {% include base_path %}
 
 Hi there, this is Konstantin
+
+![Hello internet]({{ base_path }}/images/hello-w-200-2.gif)
+
 
 ## I am into
 
