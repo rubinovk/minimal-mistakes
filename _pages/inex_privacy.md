@@ -1,5 +1,5 @@
 --- 
-title: "Privacy policy and terms and conditions" 
+title: "Privacy Policy and Terms and Conditions" 
 permalink: /inex/legal/
 date: 2016-12-12
 author_profile: false
@@ -10,7 +10,6 @@ author_profile: false
 {% include toc %}
  
 Effective as of 12 December 2016.
-{: .notice--info}
 
 By installing InEx mobile application or in other way using or accessing our
 Services, the user (hereinafter the "user") accepts the terms and conditions of
