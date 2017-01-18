@@ -32,7 +32,7 @@ Hi there, this is Konstantin
 
 ### What is your superpower?
 
-email me at [futurezooming@gmail.com](mailto:futurezooming@gmail.com)
+email me at [future.zooming@gmail.com](mailto:future.zooming@gmail.com)
 
 
 [Don't click](https://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors){: .btn .btn--light-outline}

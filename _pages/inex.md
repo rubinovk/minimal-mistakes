@@ -22,7 +22,7 @@ help you to track your breathing sessions and see how you progress with time.
 of inhalations/exhalations followed by the retention of breath. The app is not limited to this method only and is applicable to the other breathing techniques of your liking.
 {: .text-justify}
 
-Designed with __darker, low brightness__ styling -- it can be comfortably used both during the day and night.
+Designed with a __darker, low brightness__ styling -- it can be comfortably used both during the day and night.
 The screen stays on during breathing sessions shielding your concentration.
 Simple graphs show how you progress over time and the details of each breathing session.
 {: .text-justify}
