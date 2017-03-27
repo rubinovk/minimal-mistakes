@@ -71,7 +71,7 @@ analytics:
 author:
   name             : "Konstantin Rubinov"
   avatar           : "bio-photo.jpg"
-  bio              : "software engineering researcher, software testing connoisseur, Ex-Motorolan, and occasional surfer"
+  bio              : "software engineering researcher, software testing connoisseur, ex-motorolan, and occasional surfer... (click on my head for more)"
   location         : 
   email            :
   uri              : 
@@ -233,3 +233,5 @@ defaults:
 
 # Personal
 research: "research"
+news: "news"
+

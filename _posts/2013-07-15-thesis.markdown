@@ -22,7 +22,7 @@ gallery:
     url:  approach.011.gif 
 header:
   teaser: approach.011.gif
-excerpt: "my PhD thesis at the University of Lugano, Switzerland"
+excerpt: "My PhD thesis at the University of Lugano, Switzerland"
 read_time: false
 ---
 

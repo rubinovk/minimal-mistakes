@@ -3,20 +3,9 @@ main:
   - title: "research"
     url: /research/
 
-  - title: "opinions"
-    url: /opinions/
-    children:
-        - title: "library"
-          url: /library/
+  - title: "library"
+    url: /library/
 
   - title: "now"
     url: /now/
 
-
-opinions:
-   - title: "tech"
-     url: /tech/
-   - title: "future"
-     url: /future/
-   - title: "library"
-     url: /library/

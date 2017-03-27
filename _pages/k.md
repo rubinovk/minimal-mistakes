@@ -25,6 +25,15 @@ Hi there, this is Konstantin
 * web design will be about design and not about tweaks 
 * thoughts are tangible 
 
+
+## People say about him
+
+> "He is every other inch a gentleman" [RW](http://www.brainyquote.com/quotes/quotes/r/rebeccawes106776.html) 
+
+> "The man is either mad, or he is making verses" [H](http://www.brainyquote.com/quotes/quotes/h/horace152501.html)
+
+> "He is winding the watch of his wit; by and by it will strike" [WS](http://www.brainyquote.com/quotes/quotes/w/williamsha137443.html)
+
 ## My superpower
 
 > Ability to form a mental image of things intangible;

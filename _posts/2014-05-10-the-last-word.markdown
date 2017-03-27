@@ -2,6 +2,8 @@
 title: "The last Word"
 categories: opinions
 excerpt: "We seemed to have been stuck with _Word_ forever. Except for things do not stay in one place."
+header:
+    teaser: md_logo_208x128.png
 excerpt_separator: "<!--more-->" 
 ---
 

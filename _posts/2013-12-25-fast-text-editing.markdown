@@ -1,6 +1,8 @@
 ---
 title: "Fast text editing"
 categories: writing
+header:
+    teaser: jim-carrey-fast-typing.jpg
 published: true
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: / 
 header:
   image: header-code.jpg
@@ -7,25 +8,20 @@ header:
 
 {% include base_path %}
 
-Hi there, this is __Konstantin__
+<section class="page__content" itemprop="text" markdown="1">
 
-## People say about him
+Hi there, this is __Konstantin__. Here you will find a collection of my [research]({{ base_path }}/research/), opinions and observations
+{: .text-justify}
 
-> "He is every other inch a gentleman" [RW](http://www.brainyquote.com/quotes/quotes/r/rebeccawes106776.html) 
+</section>
 
-> "The man is either mad, or he is making verses" [H](http://www.brainyquote.com/quotes/quotes/h/horace152501.html)
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-> "He is winding the watch of his wit; by and by it will strike" [WS](http://www.brainyquote.com/quotes/quotes/w/williamsha137443.html)
-
-
-
-*to learn more about me click on my pic
-{: .small}
-
-## About this site
-
-Here you will find a collection of my [research work]({{ base_path }}/research/), [opinions and observations]({{ base_path }}/opinions/)
-
+<div class="grid__wrapper">
+{% for post in site.posts %}
+      {% include archive-single-main.html type="grid" %} 
+{% endfor %}
+</div>
 
 
 

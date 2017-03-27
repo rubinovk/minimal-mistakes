@@ -3,7 +3,7 @@ title: "Time to breathe"
 permalink: /inex/
 date: 2016-12-12
 header:
-  teaser: in-ex-logo.png
+  teaser: inex-feature-teaser.png
 author_profile: false
 ---
 
@@ -47,6 +47,16 @@ night and implement new features. I promise.
 
 
 __P.P.S:__ if you have any ideas about the app you'd like to share, here's [a simple form for you](https://goo.gl/forms/Dj0klCu3HZg6pUe32). I read all the feedback.
+
+
+## Reviews and Coffees
+
+
+![InEx Reviews]({{ base_path }}/images/gp-reviews.png){: .align-center}
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('A840GRP');counterwidget.draw();</script>
+
+
 
 [^1]: <a href='http://play.google.com/store/apps/details?id=in.futurezoom.inex' target='_blank' style="font-family: 'Lobster', cursive;">InEx</a> is in no way associated with [_InnerFire BV_](http://www.wimhofmethod.com) 
 

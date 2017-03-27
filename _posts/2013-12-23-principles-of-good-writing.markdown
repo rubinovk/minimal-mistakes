@@ -1,7 +1,9 @@
 ---
 title: "Illustrated principles of good writing"
 categories: writing
-excerpt: "principles of clear and coherent writing, visualized"
+excerpt: "Principles of clear and coherent writing, visualized"
+header:
+    teaser: teaser-illustr-writing.png
 ---
 
 {% include base_path %}
