@@ -117,6 +117,7 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
+  - vendor
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
