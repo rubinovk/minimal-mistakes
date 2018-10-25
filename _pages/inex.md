@@ -1,7 +1,7 @@
 --- 
 title: "Time to breathe" 
 permalink: /inex/
-date: 2016-12-12
+date: 2018-10-24
 header:
   teaser: inex-feature-teaser.png
 author_profile: false
@@ -51,6 +51,15 @@ __P.S:__ if you have any ideas about the app you'd like to share, here's [a simp
  
 These three steps correspond to one round of the Wim Hof routine. 
 To start a new round, tap "New round". Whatever has been recorded before you press "New round" is saved automatically.
+
+## FAQ
+
+### What to do if I accidentally recorded a round? How do I edit/delete a round?
+
+1. From the Today Tab of the main screen pick a date.
+2. Then press circular button with a graph icon to view the corresponding session.
+3. Tap on the bar of a chart that you would like to edit/delete.
+4. Adjust the time or set it to 00:00 to delete the round.
 
 
 ## Reviews and Coffees
