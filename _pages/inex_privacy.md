@@ -80,7 +80,7 @@ not passed on to Future Zooming.
 
 Changes This Privacy Policy may be updated from time to time for any reason. We
 will notify you of any changes to our Privacy Policy by posting the new Privacy
-Policy [http://futurezoom.in/inex/legal](http://futurezoom.in/inex/legal). You
+Policy [https://futurezoom.in/inex/legal](https://futurezoom.in/inex/legal). You
 are advised to consult this Privacy Policy regularly for any changes, as
 continued use is deemed approval of all changes. 
  
