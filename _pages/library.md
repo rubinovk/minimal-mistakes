@@ -9,6 +9,7 @@ permalink: /library/
 {% include toc %}
 
 Leaf through some items in my personal library.  
+Get a view on my [bookshelf](/bookshelf).
 Feel free to pick up what suites your condition.  
 <!-- Some books are dusty, I know.  -->
 
@@ -331,23 +332,4 @@ good life.
 William carefully translates the thoughts of sages from their times to our
 context in which it still makes a lot of sense. Wonderful, clear and rewarding
 reading.
-
-***
-
-<!-- ## Cooking -->
-
-<!-- ### Modernist cuisine  -->
-
-<!-- coming soon... -->
-
-<!-- *** -->
-
-<!-- ### Modernist cuisine at home -->
-<!--  -->
-<!-- coming soon... -->
-<!--  -->
-<!-- *** --> 
-<!-- ## Children books for adults -->
-<!--  -->
-<!-- *** -->
 
